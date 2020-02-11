@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>929095012966-8tir6qenvhu048aniheo0t8hui105fho.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.929095012966-8tir6qenvhu048aniheo0t8hui105fho</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpANVM1fjQ__d2dthfD_W3CJTlxqyKGc4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>929095012966</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vuwitapp</string>
+	<key>PROJECT_ID</key>
+	<string>vuwitapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vuwitapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:929095012966:ios:4e87c3b5ef8bed5cc213a7</string>
+	<key>DATABASE_URL</key>
+	<string>https://vuwitapp.firebaseio.com</string>
+</dict>
+</plist>

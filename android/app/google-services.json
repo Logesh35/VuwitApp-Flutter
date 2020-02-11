@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "40372384699",
+    "firebase_url": "https://vuwit-app-86222.firebaseio.com",
+    "project_id": "vuwit-app-86222",
+    "storage_bucket": "vuwit-app-86222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40372384699:android:fd079270092fb030644a9e",
+        "android_client_info": {
+          "package_name": "com.example.vuwitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40372384699-n3lfvh8836a1c8sgd05g4qbqdti4f5to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC01TQ0f36cy1dViOPJiazypPe7MVFvEJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40372384699-n3lfvh8836a1c8sgd05g4qbqdti4f5to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40372384699:android:667f96b2e08bab4e644a9e",
+        "android_client_info": {
+          "package_name": "com.radssoon.vuwit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40372384699-s5grov0pmv6lop24u98d04s2i1rnpmh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radssoon.vuwit",
+            "certificate_hash": "d79ec328fdeb041ed435a46e27212405ce3541e3"
+          }
+        },
+        {
+          "client_id": "40372384699-8cd1sk95096tivgv39r0uci29el8fchv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radssoon.vuwit",
+            "certificate_hash": "0ffc79a94f50ee0cd2fa930ec96f4576e518b413"
+          }
+        },
+        {
+          "client_id": "40372384699-18dm1842c9101g3ditrl0j2cq9soidsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radssoon.vuwit",
+            "certificate_hash": "555957983a251f7c7f794b279cedd1fcb2df2a38"
+          }
+        },
+        {
+          "client_id": "40372384699-nhrq6q0devt7863o3fcean7vnvelh7gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radssoon.vuwit",
+            "certificate_hash": "9d24c49190806fd5aad5707f409b083175496a8b"
+          }
+        },
+        {
+          "client_id": "40372384699-n3lfvh8836a1c8sgd05g4qbqdti4f5to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC01TQ0f36cy1dViOPJiazypPe7MVFvEJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40372384699-n3lfvh8836a1c8sgd05g4qbqdti4f5to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
